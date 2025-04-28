@@ -1,0 +1,54 @@
+.catBox {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.12);
+  padding: 32px 32px 24px 32px;
+  width: 350px;
+  margin: 40px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.checkbox {
+  margin-bottom: 10px;
+  font-size: 18px;
+  user-select: none;
+}
+
+.button {
+  width: 100%;
+  margin: 16px 0 24px 0;
+  padding: 10px 0;
+  font-size: 18px;
+  border: 1px solid #bbb;
+  border-radius: 2px;
+  background: #f8f8f8;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.button:disabled {
+  background: #eee;
+  color: #aaa;
+  cursor: not-allowed;
+}
+
+.catImageWrap {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 220px;
+}
+.catImage {
+  max-width: 100%;
+  max-height: 220px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.placeholder {
+  width: 220px;
+  height: 180px;
+  background: #eee;
+  border-radius: 6px;
+} 
