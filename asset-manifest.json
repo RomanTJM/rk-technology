@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RomanTJM/rk-technology/static/css/main.033f6ba3.css",
+    "main.js": "/RomanTJM/rk-technology/static/js/main.5d9e1666.js",
+    "index.html": "/RomanTJM/rk-technology/index.html",
+    "main.033f6ba3.css.map": "/RomanTJM/rk-technology/static/css/main.033f6ba3.css.map",
+    "main.5d9e1666.js.map": "/RomanTJM/rk-technology/static/js/main.5d9e1666.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.033f6ba3.css",
+    "static/js/main.5d9e1666.js"
+  ]
+}
